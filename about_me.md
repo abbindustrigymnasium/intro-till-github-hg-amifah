@@ -1,2 +1,2 @@
-# hej, jag heter AMIR
-## jag är intreserad att lära ,mig programmering.
+# Hej, jag heter AMIR
+## Jag är intreserad att lära, mig programmering.
